@@ -1,0 +1,46 @@
+*
+{
+    margin: aut;
+    padding: 10px;
+    text-align: center; 
+}
+body
+{
+    background-image: radial-gradient(rgb(76, 200, 235),rgb(114, 243, 75));
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+    font-size: 25px;
+}
+input#display
+{
+    width: 220px;
+}
+h2{
+    margin-top: 50px;
+}
+input 
+{
+    width: 56px;
+
+
+}
+input:hover
+{
+    background-color: rgb(114, 243, 75);
+    
+}
+input:active 
+{
+    background-color:rgb(76, 200, 235);
+}
+div
+{
+    background-color: black;
+    height: 400px;
+    width: 350px;
+    text-align: center;
+    margin-left:550px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px white;
+}
